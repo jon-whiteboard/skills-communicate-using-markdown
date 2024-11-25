@@ -5,3 +5,5 @@ _Italic text_
 ``` javascript
 console.log("Hello world");
 ```
+- [ ] Unchecked
+- [x] Checked
